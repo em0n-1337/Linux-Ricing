@@ -124,4 +124,4 @@ sudo make uninstall
 
 If you're familier with C language then you can add more functionalities manually. But if not then you can add patches. I have already included some of the patches, but if you want more, you can check the suckless website.
 
-NOTE: You may face some warnings while making slstatus file, just ignore them.
+NOTE: You may face some warnings while making slstatus file, just ignore them in case they appear.
