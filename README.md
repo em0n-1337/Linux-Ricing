@@ -5,12 +5,12 @@
 - Navigate to [DWM](https://dwm.suckless.org/)
 - Read their documentation if you are completely new to dwm
 - Update and upgrade your system
-  - ### Debian
+  - ### Debian 
     ```javascript
     sudo apt-get update && sudo apt-get upgrade -y
     ```
 
-  - ### ArchLinux
+  - ### Arch
     ```javascript
     sudo pacman -Syu
     ```
