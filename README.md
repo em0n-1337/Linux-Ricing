@@ -4,6 +4,16 @@
 - Go to the official website of suckless ![suckless](https://suckless.org/logo.svg)
 - Navigate to [DWM](https://dwm.suckless.org/)
 - Read their documentation if you are completely new to dwm
+- Update and upgrade your system
+  - ### Debian
+    ```javascript
+    sudo apt-get update && sudo apt-get upgrade -y
+    ```
+
+  - ### ArchLinux
+    ```javascript
+    sudo pacman -Syu
+    ```
 
 Now let's come to the point. If you haven't git installed on your linux machine install it
   - ### For Debian Based Linux
