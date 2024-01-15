@@ -119,7 +119,7 @@ Then download my alacritty.conf and picom.conf file. Put these configuration fil
 ```
 
 
-For some reason, if you want to uninstall it then type
+For some reason, if you want to uninstall dwm then type
 ```javascript
 sudo make uninstall
 ```
