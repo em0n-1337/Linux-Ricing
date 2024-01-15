@@ -62,7 +62,7 @@ Type=XSession
 ```
 
 
-Now log out from the current session and log back again with the dwm session selected. This should appear somewhere on your login screen. If you want to use my config file then navigate to the dwm folder again and type
+Now log out from the current session and log back again with the dwm session selected. This should appear somewhere on your login screen. If you want to use my config file don't forget to check out the note instruction. Then navigate to the dwm folder and type
 ```javascript
 sudo make clean install
 ```
@@ -74,4 +74,4 @@ sudo make uninstall
 
 If you're familier with C language then you can add more functionalities manually. But if not then you can add patches, check the suckless website under dwm section.
 
-NOTE: I have uploaded .git folders as .zip format inside dmenu and slstatus. Don't forget to unzip them before installting dwm
+NOTE: In case, you want to use my dwm configurations, I have uploaded .git folders as .zip format inside dmenu and slstatus. Don't forget to unzip them before installting dwm
