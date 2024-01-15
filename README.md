@@ -49,7 +49,7 @@ exec dwm
 ```
 
 
-If you have another window manager running on your system then don't forget to stop it.
+If you have another window manager running on your system then don't forget to stop that.
 ```javascript
 # exec other-manager [comment it down]
 exec dwm
