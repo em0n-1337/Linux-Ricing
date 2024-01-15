@@ -16,7 +16,7 @@ Now let's come to the point. If you haven't git installed on your linux machine 
     sudo pacman -S git
     ```
 
- - Now git clone the repository
+Now git clone the repository
 ```javascript
 git clone https://git.suckless.org/dwm
 cd dwm
