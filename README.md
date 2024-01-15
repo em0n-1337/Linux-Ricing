@@ -73,3 +73,5 @@ sudo make uninstall
 ```
 
 If you're familier with C language then you can add more functionalities manually. But if not then you can add patches, check the suckless website under dwm section.
+
+NOTE: I have uploaded .git folders as .zip format inside dmenu and slstatus. Don't forget to unzip them before installting dwm
