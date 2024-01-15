@@ -56,7 +56,7 @@ exec dwm
 ```  
 
 
-If this method doesn't work, create a new file to the ```/usr/share/xsessions/dwm.desktop``` Then paste the following code
+If this method doesn't work, create a new file to the ```/usr/share/xsessions/dwm.desktop``` location. Then paste the following code
 ```javascript
 [Desktop Entry]
 Encoding=UTF-8
