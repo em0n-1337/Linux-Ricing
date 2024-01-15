@@ -80,4 +80,4 @@ sudo make uninstall
 
 If you're familier with C language then you can add more functionalities manually. But if not then you can add patches. I have already included some of the patches, but if you want more, you can check the suckless website.
 
-NOTE: In case, you want to use my dwm configurations, I have uploaded .git folders as .zip format inside dmenu and slstatus. Don't forget to unzip them before installting dwm
+NOTE: In case, you want to use my dwm configurations, I have uploaded .git folders as .zip format inside dmenu and slstatus. Make sure to unzip them before installting dwm
