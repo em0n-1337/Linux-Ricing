@@ -5,8 +5,6 @@
 - Navigate to [DWM](https://dwm.suckless.org/)
 - Read their documentation if you are completely new to dwm
 
- 
-## Basic DWM Customization
 Now let's come to the point. If you haven't git installed on your linux machine install it
   - ### For Debian Based Linux
     ```javascript
@@ -18,7 +16,7 @@ Now let's come to the point. If you haven't git installed on your linux machine 
     sudo pacman -S git
     ```
 
-- Now git clone the repository
+ - Now git clone the repository
 ```javascript
 git clone https://git.suckless.org/dwm
 cd dwm
@@ -26,6 +24,7 @@ sudo make
 sudo make clean install
 ```  
 
+## Basic DWM Customization
 Thus it will be installed on your linux machine as a window manager. But here we need a one more task to do which is setting up the window manager in our .xinitrc file so that as soon as the X-Window starts we can access DWM. Put the following command to your .xinitrc file.
 ```javascript
 exec dwm
