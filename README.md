@@ -90,7 +90,7 @@ Icon=dwm
 Type=XSession
 ```
 
-I have also added an external file to dwm folder which is autostart.sh. This basically sets the wallpaper, if you want it to work then replace the wallpaper file with yours one
+I have also added an external file to the dwm folder which is autostart.sh. This basically sets the wallpaper, if you want it to work then replace the wallpaper file with yours one
 ```javascript
 feh --bg-fill /home/your-username/path/to/your/wallpaper/file
 ```
@@ -101,7 +101,7 @@ sudo pacman -S feh
 ```
 
 You can also set the wallpaper manually to your ```~/.fehbg``` file. But I recommend to set it to the autostart.sh file so that every time dwm starts you don't have to set it again and again. You can also add other applications as well, in this case you just need to add the application name or location to the autostart.sh file. I have included three applications here, feh for setting wallpaper, picom for terminal transparency and slstatus for showing status bar process. If you want your terminal to be transparent as mine, then download alacritty and picom with the following commands
-  - ### Alacritty Terminal
+  - ### Alacritty
     ```javascript
     sudo pacman -S alacritty
     ```
