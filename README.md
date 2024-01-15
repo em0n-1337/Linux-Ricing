@@ -1,10 +1,13 @@
 # Linux-Ricing With DWM
 
-## Basic DWM Installation
+## DWM Installation
 - Go to the official website of suckless ![suckless](https://suckless.org/logo.svg)
 - Navigate to [DWM](https://dwm.suckless.org/)
 - Read their documentation if you are completely new to dwm
-- Now let's come to the point. If you haven't git installed on your linux machine install it
+
+ 
+## Basic DWM Customization
+Now let's come to the point. If you haven't git installed on your linux machine install it
   - ### For Debian Based Linux
     ```javascript
     sudo apt install git
