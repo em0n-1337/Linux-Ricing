@@ -23,9 +23,10 @@ cd dwm
 sudo make
 sudo make clean install
 ```  
+Thus it will be installed on your linux machine as a window manager.
 
-## Basic DWM Customization
-Thus it will be installed on your linux machine as a window manager. But here we need a one more task to do which is setting up the window manager in our .xinitrc file so that as soon as the X-Window starts we can access DWM. Put the following command to your .xinitrc file.
+## Setting DWM
+Now we need a one more task to do which is setting up the window manager in our .xinitrc file so that as soon as the X-Window starts we can access DWM. Put the following command to your .xinitrc file.
 ```javascript
 exec dwm
 ```
