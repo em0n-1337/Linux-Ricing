@@ -1,5 +1,7 @@
 # Linux-Ricing With DWM
 
+![github](https://github.com/em0n-1337/Linux-Ricing/assets/156088588/85535ed8-1f59-4302-a62d-546b4029d5e7)
+
 ## DWM Installation
 - Go to the official website of suckless ![suckless](https://suckless.org/logo.svg)
 - Navigate to [DWM](https://dwm.suckless.org/)
