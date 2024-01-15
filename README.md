@@ -15,6 +15,7 @@
     sudo pacman -Syu
     ```
 
+
 Now let's come to the point. If you haven't git installed on your linux machine install it
   - ### For Debian Based Linux
     ```javascript
