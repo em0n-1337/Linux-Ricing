@@ -27,10 +27,16 @@ Now let's come to the point. If you haven't git installed on your linux machine 
     sudo pacman -S git
     ```
 
-Now git clone the repository
+Now git clone the following repositories
 ```javascript
 git clone https://git.suckless.org/dwm
-cd dwm
+git clone https://tools.suckless.org/dmenu/
+git clone https://git.suckless.org/slstatus
+```
+
+Now make files to dwm, dmenu and slstatus
+```javascript
+cd dwm [dmenu/slstatus]
 sudo make
 sudo make clean install
 ```  
