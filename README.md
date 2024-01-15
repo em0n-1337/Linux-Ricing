@@ -1,4 +1,4 @@
-# Linux-Ricing
+# Linux-Ricing With DWM
 
 ## Basic DWM Installation
 - Go to the official website of suckless ![suckless](https://suckless.org/logo.svg)
