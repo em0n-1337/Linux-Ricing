@@ -16,7 +16,7 @@
     ```
 
 
-Now let's come to the point. If you haven't git installed on your linux machine install it
+Now let's come to the point. If you haven't git installed on your linux machine install it with the following command
   - ### For Debian Based Linux
     ```javascript
     sudo apt install git
