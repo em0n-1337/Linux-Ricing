@@ -1,6 +1,6 @@
 # Linux-Ricing With DWM
 
-![ch](https://github.com/em0n-1337/Linux-Ricing/assets/156088588/ae695a87-cb4d-4e9a-a118-0f6e61164c13)
+![linux-rice](https://github.com/em0n-1337/Linux-Ricing/assets/156088588/11a51789-571a-45cd-b791-3713adcacc6d)
 
 ## DWM Installation
 - Go to the official website of suckless ![suckless](https://suckless.org/logo.svg)
