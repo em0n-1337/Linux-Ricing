@@ -1,0 +1,131 @@
+[colors.bright]
+black = "#0a090e"
+blue = "#eda06f"
+cyan = "#6E6D8D"
+green = "#817E9D"
+magenta = "#9291AC"
+red = "#A09FB4"
+white = "#A29CC4"
+yellow = "#a7d683"
+
+[colors.normal]
+black = "#919098"
+blue = "#eda06f"
+cyan = "#6E6D8D"
+green = "#817E9D"
+magenta = "#9291AC"
+red = "#A09FB4"
+white = "#A29CC4"
+yellow = "#a7d683"
+
+[colors.primary]
+background = "#0a090e"
+foreground = "#e6e6eb"
+
+
+#[colors.bright]
+#black = "#061019"
+#blue = "#4B5C66"
+#cyan = "#435C6C"
+#green = "#506877"
+#magenta = "#5C7481"
+#red = "#647A86"
+#white = "#758893"
+#yellow = "#bfc7ca"
+
+#[colors.normal]
+#black = "#858b8d"
+#blue = "#4B5C66"
+#cyan = "#435C6C"
+#green = "#506877"
+#magenta = "#5C7481"
+#red = "#647A86"
+#white = "#758893"
+#yellow = "#bfc7ca"
+
+#[colors.primary]
+#green
+#background = "#111a14"
+#blue
+#background = "#061019"
+
+#black
+#background = "#000000"
+#foreground = "#bfc7ca"
+
+[font]
+size = 11.0
+
+[font.bold]
+family = "hack"
+style = "Normal"
+
+[font.bold_italic]
+family = "FiraCode Nerd Font Mono"
+style = "Bold Italic"
+
+[font.italic]
+family = "hack"
+style = "Italic"
+
+[font.normal]
+family = "hack"
+style = "Regular"
+
+[[keyboard.bindings]]
+action = "ToggleFullscreen"
+key = "F11"
+
+[scrolling]
+history = 50000
+
+[window]
+opacity = 0.86
+#opacity = 1
+
+#############################
+# Custom Keybindings
+#############################
+
+
+# scroll half page up
+[[keyboard.bindings]]
+key = "J"
+mods = "Control|Shift"
+action = "ScrollHalfPageUp"
+
+# scroll half page down
+[[keyboard.bindings]]
+key = "K"
+mods = "Control|Shift"
+action = "ScrollHalfPageDown"
+
+# scroll one line up
+[[keyboard.bindings]]
+key = "J"
+mods = "Control"
+action = "ScrollLineUp"
+
+# scroll one line down
+[[keyboard.bindings]]
+key = "K"
+mods = "Control"
+action = "ScrollLineDown"
+
+# scroll to top
+[[keyboard.bindings]]
+key = "T"
+mods = "Control"
+action = "ScrollToTop"
+
+# scroll to bottom
+[[keyboard.bindings]]
+key = "B"
+mods = "Control"
+action = "ScrollToBottom"
+
+# paste text
+[[keyboard.bindings]]
+key = "V"
+mods = "Control"
+action = "Paste"
