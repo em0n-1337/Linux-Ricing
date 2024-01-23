@@ -1,4 +1,4 @@
-![mountain23](https://github.com/em0n-1337/Linux-Ricing/assets/156088588/aa8bc854-7a9b-41bc-a660-c94301807c3f)
+![rice3](https://github.com/em0n-1337/Linux-Ricing/assets/156088588/5c4083c9-8956-476c-a69d-f205f25f49a9)
 
 - Download alacritty.toml and copy the color codes, then it with your current alacritty.toml
 - Download config.def.h and copy the color codes only
