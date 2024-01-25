@@ -1,4 +1,4 @@
-![rice3](https://github.com/em0n-1337/Linux-Ricing/assets/156088588/5c4083c9-8956-476c-a69d-f205f25f49a9)
+![arch-linux-dwm-systray-final](https://github.com/em0n-1337/Linux-Ricing/assets/156088588/f771f94f-7dc9-49b5-82b8-61b6304eba64)
 
 - Download alacritty.toml and copy the color codes, then it with your current alacritty.toml
 - Download config.def.h and copy the color codes only
